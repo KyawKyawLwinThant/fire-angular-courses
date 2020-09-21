@@ -117,8 +117,16 @@
               "devServerTarget": "fire-course:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "fire-course"
+    }
+  },
+  "defaultProject": "fire-course",
+  "cli": {
+    "analytics": "d0516d12-c1b6-4569-8dbe-f4edeff14e63"
+  }
 }

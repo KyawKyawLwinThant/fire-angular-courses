@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-course-cf4e2": {
+      "hosting": {
+        "fire-course": [
+          "fire-course-cf4e2"
+        ]
+      }
+    }
+  }
+}
